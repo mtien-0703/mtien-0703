@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=minhtien.0703&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=mtien-0703&theme=tokyonight" width="95%" />
+<img src="https://ghstats.dev/api/card?username=minhtien.0703&theme=tokyonight" width="95%" />
 
 </div>
 <div align="center">
