@@ -15,7 +15,7 @@
 
 ## 🚀 Thông tin cá nhân
 
-- Zalo: 0378931904 - Lê Minh Tiến
+- Zalo: Lê Minh Tiến
 - Tiktok: https://www.tiktok.com/@my.lmt.05
 - Facebook: https://www.facebook.com/minhtien.0703
 ##
